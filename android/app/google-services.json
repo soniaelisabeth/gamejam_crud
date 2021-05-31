@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "778706076520",
+    "project_id": "gamejam-crud",
+    "storage_bucket": "gamejam-crud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778706076520:android:fc0e2d03a27a7944f5ccdd",
+        "android_client_info": {
+          "package_name": "com.example.gamejam_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778706076520-tijt0hq80cthuc44vnloiri0u33gtmtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMCxbByO3YfedSqzTYOGTqiPcpuuIDf0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778706076520-tijt0hq80cthuc44vnloiri0u33gtmtc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
